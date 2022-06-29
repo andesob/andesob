@@ -1,4 +1,5 @@
 Hi there 👋
+
 I am Anders Søbakken, and I'm currently working at Schibsted Norge SMB as a full stack developer
 
 ## Some of the projects I've been working on:
