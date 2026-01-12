@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am Anders Søbakken, and I'm currently working at Schibsted Norge SMB as a full stack developer
+I am Anders Søbakken, and I'm currently working at Netcompany as a consultant
 
 ## Some of the projects I've been working on:
 [![Enabled-app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=andesob&repo=Enabled-app&theme=dark)](https://github.com/andesob/Enabled-app)
